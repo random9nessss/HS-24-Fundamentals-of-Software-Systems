@@ -1,0 +1,92 @@
+[
+    {
+        "file_pair": [
+            "index.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 241
+        }
+    },
+    {
+        "file_pair": [
+            "ComponentWithCustomHook.js",
+            "index.js"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 203
+        }
+    },
+    {
+        "file_pair": [
+            "ReactFiberWorkLoop.new.js",
+            "ReactFiberWorkLoop.old.js"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 141
+        }
+    },
+    {
+        "file_pair": [
+            "index.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 364
+        }
+    },
+    {
+        "file_pair": [
+            "ComponentWithCustomHook.js",
+            "index.js"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 317
+        }
+    },
+    {
+        "file_pair": [
+            "manifest.json",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 282
+        }
+    },
+    {
+        "file_pair": [
+            "index.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 495
+        }
+    },
+    {
+        "file_pair": [
+            "ComponentWithCustomHook.js",
+            "index.js"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 440
+        }
+    },
+    {
+        "file_pair": [
+            "manifest.json",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 348
+        }
+    }
+]

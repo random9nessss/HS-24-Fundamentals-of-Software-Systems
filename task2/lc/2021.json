@@ -1,0 +1,23 @@
+[
+    {
+        "file_pair": [
+            "ComponentUsingHooksIndirectly.js",
+            "ComponentWithCustomHook.js"
+        ],
+        "commit_count": 641
+    },
+    {
+        "file_pair": [
+            "ComponentUsingHooksIndirectly.js",
+            "ComponentWithExternalCustomHooks.js"
+        ],
+        "commit_count": 641
+    },
+    {
+        "file_pair": [
+            "ComponentUsingHooksIndirectly.js",
+            "ContainingStringSourceMappingURL.js"
+        ],
+        "commit_count": 641
+    }
+]

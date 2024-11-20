@@ -1,0 +1,92 @@
+[
+    {
+        "file_pair": [
+            "index.js",
+            "utils.js"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 4335
+        }
+    },
+    {
+        "file_pair": [
+            "index.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 3053
+        }
+    },
+    {
+        "file_pair": [
+            "index.js",
+            "types.js"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 2849
+        }
+    },
+    {
+        "file_pair": [
+            "index.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 5468
+        }
+    },
+    {
+        "file_pair": [
+            "index.js",
+            "utils.js"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 4678
+        }
+    },
+    {
+        "file_pair": [
+            "index.js",
+            "types.js"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 2958
+        }
+    },
+    {
+        "file_pair": [
+            "index.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 6710
+        }
+    },
+    {
+        "file_pair": [
+            "index.js",
+            "utils.js"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 4846
+        }
+    },
+    {
+        "file_pair": [
+            "package.json",
+            "utils.js"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 3375
+        }
+    }
+]

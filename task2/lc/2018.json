@@ -1,0 +1,23 @@
+[
+    {
+        "file_pair": [
+            "package.json",
+            "yarn.lock"
+        ],
+        "commit_count": 239
+    },
+    {
+        "file_pair": [
+            "config.js",
+            "package.json"
+        ],
+        "commit_count": 225
+    },
+    {
+        "file_pair": [
+            "ReactVersion.js",
+            "package.json"
+        ],
+        "commit_count": 225
+    }
+]

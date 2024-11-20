@@ -1,0 +1,92 @@
+[
+    {
+        "file_pair": [
+            "index.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 1265
+        }
+    },
+    {
+        "file_pair": [
+            "package.json",
+            "tests-passing.txt"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 590
+        }
+    },
+    {
+        "file_pair": [
+            "index.html",
+            "index.js"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 546
+        }
+    },
+    {
+        "file_pair": [
+            "index.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 2172
+        }
+    },
+    {
+        "file_pair": [
+            "index.html",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 1255
+        }
+    },
+    {
+        "file_pair": [
+            "package.json",
+            "tests-passing.txt"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 922
+        }
+    },
+    {
+        "file_pair": [
+            "index.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 3502
+        }
+    },
+    {
+        "file_pair": [
+            "index.html",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 1717
+        }
+    },
+    {
+        "file_pair": [
+            "package.json",
+            "tests-passing.txt"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 1221
+        }
+    }
+]

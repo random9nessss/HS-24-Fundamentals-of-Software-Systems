@@ -1,0 +1,92 @@
+[
+    {
+        "file_pair": [
+            "ReactFiberBeginWork.js",
+            "ReactFiberScheduler.js"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 660
+        }
+    },
+    {
+        "file_pair": [
+            "tests-failing.txt",
+            "tests-passing.txt"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 603
+        }
+    },
+    {
+        "file_pair": [
+            "ReactFiber.js",
+            "ReactFiberBeginWork.js"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 520
+        }
+    },
+    {
+        "file_pair": [
+            "tests-failing.txt",
+            "tests-passing.txt"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 962
+        }
+    },
+    {
+        "file_pair": [
+            "ReactFiberBeginWork.js",
+            "ReactFiberScheduler.js"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 801
+        }
+    },
+    {
+        "file_pair": [
+            "ReactFiberScheduler.js",
+            "tests-passing.txt"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 798
+        }
+    },
+    {
+        "file_pair": [
+            "tests-failing.txt",
+            "tests-passing.txt"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 1216
+        }
+    },
+    {
+        "file_pair": [
+            "ReactFiberScheduler.js",
+            "tests-passing.txt"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 993
+        }
+    },
+    {
+        "file_pair": [
+            "ReactFiberBeginWork.js",
+            "ReactFiberScheduler.js"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 843
+        }
+    }
+]

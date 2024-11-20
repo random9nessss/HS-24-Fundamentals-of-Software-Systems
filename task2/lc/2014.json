@@ -1,0 +1,23 @@
+[
+    {
+        "file_pair": [
+            "ReactCompositeComponent-test.js",
+            "ReactCompositeComponent.js"
+        ],
+        "commit_count": 38
+    },
+    {
+        "file_pair": [
+            "ReactComponent.js",
+            "ReactCompositeComponent.js"
+        ],
+        "commit_count": 25
+    },
+    {
+        "file_pair": [
+            "example.js",
+            "index.html"
+        ],
+        "commit_count": 24
+    }
+]

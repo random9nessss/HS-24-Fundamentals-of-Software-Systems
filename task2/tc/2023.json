@@ -1,0 +1,92 @@
+[
+    {
+        "file_pair": [
+            "Cargo.toml",
+            "lib.rs"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 743
+        }
+    },
+    {
+        "file_pair": [
+            "BuildHIR.ts",
+            "HIR.ts"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 523
+        }
+    },
+    {
+        "file_pair": [
+            "package.json",
+            "yarn.lock"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 472
+        }
+    },
+    {
+        "file_pair": [
+            "Cargo.toml",
+            "lib.rs"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 1144
+        }
+    },
+    {
+        "file_pair": [
+            "BuildHIR.ts",
+            "HIR.ts"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 809
+        }
+    },
+    {
+        "file_pair": [
+            "package.json",
+            "yarn.lock"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 782
+        }
+    },
+    {
+        "file_pair": [
+            "Cargo.toml",
+            "lib.rs"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 1576
+        }
+    },
+    {
+        "file_pair": [
+            "BuildHIR.ts",
+            "HIR.ts"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 1058
+        }
+    },
+    {
+        "file_pair": [
+            "BuildHIR.ts",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 1027
+        }
+    }
+]

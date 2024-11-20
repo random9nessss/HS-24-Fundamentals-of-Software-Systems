@@ -1,0 +1,92 @@
+[
+    {
+        "file_pair": [
+            "ReactCompositeComponent-test.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 139
+        }
+    },
+    {
+        "file_pair": [
+            "index.html",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 135
+        }
+    },
+    {
+        "file_pair": [
+            "ReactDOMComponent.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 134
+        }
+    },
+    {
+        "file_pair": [
+            "ReactDOMComponent.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 227
+        }
+    },
+    {
+        "file_pair": [
+            "ReactCompositeComponent-test.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 189
+        }
+    },
+    {
+        "file_pair": [
+            "index.html",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 189
+        }
+    },
+    {
+        "file_pair": [
+            "ReactDOMComponent.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 331
+        }
+    },
+    {
+        "file_pair": [
+            "ReactCompositeComponent-test.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 252
+        }
+    },
+    {
+        "file_pair": [
+            "ReactCompositeComponent.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 242
+        }
+    }
+]

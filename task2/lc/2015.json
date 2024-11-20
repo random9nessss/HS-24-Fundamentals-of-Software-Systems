@@ -1,0 +1,23 @@
+[
+    {
+        "file_pair": [
+            "ReactDOMComponent-test.js",
+            "ReactDOMComponent.js"
+        ],
+        "commit_count": 45
+    },
+    {
+        "file_pair": [
+            "example.js",
+            "index.html"
+        ],
+        "commit_count": 32
+    },
+    {
+        "file_pair": [
+            "React.js",
+            "package.json"
+        ],
+        "commit_count": 31
+    }
+]

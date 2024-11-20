@@ -1,0 +1,92 @@
+[
+    {
+        "file_pair": [
+            "index.ts",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 588
+        }
+    },
+    {
+        "file_pair": [
+            "package.json",
+            "yarn.lock"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 492
+        }
+    },
+    {
+        "file_pair": [
+            "lib.rs",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 461
+        }
+    },
+    {
+        "file_pair": [
+            "index.ts",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 1019
+        }
+    },
+    {
+        "file_pair": [
+            "package.json",
+            "yarn.lock"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 968
+        }
+    },
+    {
+        "file_pair": [
+            "ReactFeatureFlags.www.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 749
+        }
+    },
+    {
+        "file_pair": [
+            "index.ts",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 1227
+        }
+    },
+    {
+        "file_pair": [
+            "package.json",
+            "yarn.lock"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 1225
+        }
+    },
+    {
+        "file_pair": [
+            "ReactFeatureFlags.www.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 1016
+        }
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "file_pair": [
+            "ReactComponent.js",
+            "ReactCompositeComponent.js"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 114
+        }
+    },
+    {
+        "file_pair": [
+            "ReactCompositeComponent.js",
+            "ReactDOMComponent.js"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 94
+        }
+    },
+    {
+        "file_pair": [
+            "ReactComponent.js",
+            "ReactDOMComponent.js"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 82
+        }
+    },
+    {
+        "file_pair": [
+            "ReactComponent.js",
+            "ReactCompositeComponent.js"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 171
+        }
+    },
+    {
+        "file_pair": [
+            "ReactCompositeComponent.js",
+            "ReactDOMComponent.js"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 151
+        }
+    },
+    {
+        "file_pair": [
+            "ReactComponent.js",
+            "ReactDOMComponent.js"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 122
+        }
+    },
+    {
+        "file_pair": [
+            "ReactComponent.js",
+            "ReactCompositeComponent.js"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 220
+        }
+    },
+    {
+        "file_pair": [
+            "ReactCompositeComponent.js",
+            "ReactDOMComponent.js"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 187
+        }
+    },
+    {
+        "file_pair": [
+            "ReactCompositeComponent.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 164
+        }
+    }
+]

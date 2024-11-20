@@ -1,0 +1,92 @@
+[
+    {
+        "file_pair": [
+            "Gruntfile.js",
+            "webdriver-jasmine.js"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 155
+        }
+    },
+    {
+        "file_pair": [
+            "Gruntfile.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 150
+        }
+    },
+    {
+        "file_pair": [
+            ".travis.yml",
+            "Gruntfile.js"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 124
+        }
+    },
+    {
+        "file_pair": [
+            "Gruntfile.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 180
+        }
+    },
+    {
+        "file_pair": [
+            "ReactCompositeComponent.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 169
+        }
+    },
+    {
+        "file_pair": [
+            "Gruntfile.js",
+            "webdriver-jasmine.js"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 156
+        }
+    },
+    {
+        "file_pair": [
+            "Gruntfile.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 324
+        }
+    },
+    {
+        "file_pair": [
+            "ReactCompositeComponent.js",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 208
+        }
+    },
+    {
+        "file_pair": [
+            ".travis.yml",
+            "package.json"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 179
+        }
+    }
+]
