@@ -11,16 +11,6 @@
     },
     {
         "file_pair": [
-            "tests-failing.txt",
-            "tests-passing.txt"
-        ],
-        "coupled_commits": {
-            "time_window": 24,
-            "commit_count": 603
-        }
-    },
-    {
-        "file_pair": [
             "ReactFiber.js",
             "ReactFiberBeginWork.js"
         ],
@@ -31,12 +21,12 @@
     },
     {
         "file_pair": [
-            "tests-failing.txt",
-            "tests-passing.txt"
+            "ReactFiberBeginWork.js",
+            "ReactFiberCompleteWork.js"
         ],
         "coupled_commits": {
-            "time_window": 48,
-            "commit_count": 962
+            "time_window": 24,
+            "commit_count": 480
         }
     },
     {
@@ -51,32 +41,22 @@
     },
     {
         "file_pair": [
-            "ReactFiberScheduler.js",
-            "tests-passing.txt"
+            "ReactFiber.js",
+            "ReactFiberBeginWork.js"
         ],
         "coupled_commits": {
             "time_window": 48,
-            "commit_count": 798
+            "commit_count": 541
         }
     },
     {
         "file_pair": [
-            "tests-failing.txt",
-            "tests-passing.txt"
+            "ReactFiberBeginWork.js",
+            "ReactFiberCompleteWork.js"
         ],
         "coupled_commits": {
-            "time_window": 72,
-            "commit_count": 1216
-        }
-    },
-    {
-        "file_pair": [
-            "ReactFiberScheduler.js",
-            "tests-passing.txt"
-        ],
-        "coupled_commits": {
-            "time_window": 72,
-            "commit_count": 993
+            "time_window": 48,
+            "commit_count": 537
         }
     },
     {
@@ -87,6 +67,26 @@
         "coupled_commits": {
             "time_window": 72,
             "commit_count": 843
+        }
+    },
+    {
+        "file_pair": [
+            "ReactFiberBeginWork.js",
+            "ReactFiberCompleteWork.js"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 556
+        }
+    },
+    {
+        "file_pair": [
+            "ReactFiber.js",
+            "ReactFiberBeginWork.js"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 553
         }
     }
 ]

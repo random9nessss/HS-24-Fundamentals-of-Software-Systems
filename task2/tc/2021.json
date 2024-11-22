@@ -1,16 +1,6 @@
 [
     {
         "file_pair": [
-            "index.js",
-            "package.json"
-        ],
-        "coupled_commits": {
-            "time_window": 24,
-            "commit_count": 241
-        }
-    },
-    {
-        "file_pair": [
             "ComponentWithCustomHook.js",
             "index.js"
         ],
@@ -31,12 +21,12 @@
     },
     {
         "file_pair": [
-            "index.js",
-            "package.json"
+            "ReactFiberLane.new.js",
+            "ReactFiberLane.old.js"
         ],
         "coupled_commits": {
-            "time_window": 48,
-            "commit_count": 364
+            "time_window": 24,
+            "commit_count": 106
         }
     },
     {
@@ -51,22 +41,22 @@
     },
     {
         "file_pair": [
-            "manifest.json",
-            "package.json"
+            "ReactFiberWorkLoop.new.js",
+            "ReactFiberWorkLoop.old.js"
         ],
         "coupled_commits": {
             "time_window": 48,
-            "commit_count": 282
+            "commit_count": 207
         }
     },
     {
         "file_pair": [
-            "index.js",
-            "package.json"
+            "ComponentWithCustomHook.js",
+            "ContainingStringSourceMappingURL.js"
         ],
         "coupled_commits": {
-            "time_window": 72,
-            "commit_count": 495
+            "time_window": 48,
+            "commit_count": 202
         }
     },
     {
@@ -81,12 +71,22 @@
     },
     {
         "file_pair": [
-            "manifest.json",
-            "package.json"
+            "ReactFiberWorkLoop.new.js",
+            "ReactFiberWorkLoop.old.js"
         ],
         "coupled_commits": {
             "time_window": 72,
-            "commit_count": 348
+            "commit_count": 323
+        }
+    },
+    {
+        "file_pair": [
+            "ComponentWithCustomHook.js",
+            "ContainingStringSourceMappingURL.js"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 274
         }
     }
 ]

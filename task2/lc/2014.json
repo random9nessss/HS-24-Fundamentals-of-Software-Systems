@@ -15,9 +15,9 @@
     },
     {
         "file_pair": [
-            "example.js",
-            "index.html"
+            "ReactCompositeComponent.js",
+            "ReactDOMComponent.js"
         ],
-        "commit_count": 24
+        "commit_count": 21
     }
 ]

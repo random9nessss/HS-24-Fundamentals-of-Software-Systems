@@ -1,23 +1,23 @@
 [
     {
         "file_pair": [
+            "config.js",
+            "input.js"
+        ],
+        "commit_count": 300
+    },
+    {
+        "file_pair": [
             "index.js",
-            "package.json"
+            "input.js"
         ],
-        "commit_count": 891
+        "commit_count": 282
     },
     {
         "file_pair": [
-            "index.html",
-            "package.json"
+            "config.js",
+            "index.js"
         ],
-        "commit_count": 534
-    },
-    {
-        "file_pair": [
-            "package.json",
-            "yarn.lock"
-        ],
-        "commit_count": 521
+        "commit_count": 180
     }
 ]

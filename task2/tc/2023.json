@@ -1,92 +1,92 @@
 [
     {
         "file_pair": [
-            "Cargo.toml",
-            "lib.rs"
+            "index.js",
+            "utils.js"
         ],
         "coupled_commits": {
             "time_window": 24,
-            "commit_count": 743
+            "commit_count": 75
         }
     },
     {
         "file_pair": [
-            "BuildHIR.ts",
-            "HIR.ts"
+            "ReactFizzServer.js",
+            "index.js"
         ],
         "coupled_commits": {
             "time_window": 24,
-            "commit_count": 523
+            "commit_count": 68
         }
     },
     {
         "file_pair": [
-            "package.json",
-            "yarn.lock"
+            "ReactFiberWorkLoop.js",
+            "index.js"
         ],
         "coupled_commits": {
             "time_window": 24,
-            "commit_count": 472
+            "commit_count": 60
         }
     },
     {
         "file_pair": [
-            "Cargo.toml",
-            "lib.rs"
+            "ReactFizzServer.js",
+            "index.js"
         ],
         "coupled_commits": {
             "time_window": 48,
-            "commit_count": 1144
+            "commit_count": 110
         }
     },
     {
         "file_pair": [
-            "BuildHIR.ts",
-            "HIR.ts"
+            "index.js",
+            "utils.js"
         ],
         "coupled_commits": {
             "time_window": 48,
-            "commit_count": 809
+            "commit_count": 91
         }
     },
     {
         "file_pair": [
-            "package.json",
-            "yarn.lock"
+            "ReactFeatureFlags.www.js",
+            "index.js"
         ],
         "coupled_commits": {
             "time_window": 48,
-            "commit_count": 782
+            "commit_count": 90
         }
     },
     {
         "file_pair": [
-            "Cargo.toml",
-            "lib.rs"
+            "ReactFizzServer.js",
+            "index.js"
         ],
         "coupled_commits": {
             "time_window": 72,
-            "commit_count": 1576
+            "commit_count": 142
         }
     },
     {
         "file_pair": [
-            "BuildHIR.ts",
-            "HIR.ts"
+            "ReactFeatureFlags.www.js",
+            "index.js"
         ],
         "coupled_commits": {
             "time_window": 72,
-            "commit_count": 1058
+            "commit_count": 106
         }
     },
     {
         "file_pair": [
-            "BuildHIR.ts",
-            "package.json"
+            "ReactDOMFizzServer-test.js",
+            "index.js"
         ],
         "coupled_commits": {
             "time_window": 72,
-            "commit_count": 1027
+            "commit_count": 104
         }
     }
 ]

@@ -31,62 +31,62 @@
     },
     {
         "file_pair": [
-            "index.js",
-            "package.json"
+            "ReactFiberCommitWork.new.js",
+            "index.js"
         ],
         "coupled_commits": {
             "time_window": 48,
-            "commit_count": 555
+            "commit_count": 417
         }
     },
     {
         "file_pair": [
-            "index.js",
-            "yarn.lock"
+            "ReactFiberCommitWork.old.js",
+            "index.js"
         ],
         "coupled_commits": {
             "time_window": 48,
-            "commit_count": 472
+            "commit_count": 416
         }
     },
     {
         "file_pair": [
-            "package.json",
-            "yarn.lock"
+            "ReactFiberHooks.new.js",
+            "index.js"
         ],
         "coupled_commits": {
             "time_window": 48,
-            "commit_count": 438
+            "commit_count": 389
         }
     },
     {
         "file_pair": [
-            "index.js",
-            "package.json"
+            "ReactFiberCommitWork.new.js",
+            "index.js"
         ],
         "coupled_commits": {
             "time_window": 72,
-            "commit_count": 694
+            "commit_count": 470
         }
     },
     {
         "file_pair": [
-            "index.js",
-            "yarn.lock"
+            "ReactFiberCommitWork.old.js",
+            "index.js"
         ],
         "coupled_commits": {
             "time_window": 72,
-            "commit_count": 562
+            "commit_count": 469
         }
     },
     {
         "file_pair": [
-            "ReactFiberWorkLoop.new.js",
-            "package.json"
+            "ReactFiberCommitWork.new.js",
+            "ReactFiberCommitWork.old.js"
         ],
         "coupled_commits": {
             "time_window": 72,
-            "commit_count": 548
+            "commit_count": 449
         }
     }
 ]

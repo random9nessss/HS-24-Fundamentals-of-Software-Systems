@@ -1,23 +1,23 @@
 [
     {
         "file_pair": [
-            "Cargo.toml",
-            "lib.rs"
+            "index.js",
+            "utils.js"
         ],
-        "commit_count": 480
+        "commit_count": 96
     },
     {
         "file_pair": [
-            "package.json",
-            "yarn.lock"
+            "backend.js",
+            "index.js"
         ],
-        "commit_count": 316
+        "commit_count": 70
     },
     {
         "file_pair": [
-            "index.ts",
-            "package.json"
+            "index.js",
+            "renderer.js"
         ],
-        "commit_count": 296
+        "commit_count": 61
     }
 ]

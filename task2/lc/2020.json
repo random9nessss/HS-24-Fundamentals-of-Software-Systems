@@ -1,23 +1,23 @@
 [
     {
         "file_pair": [
-            "index.js",
-            "package.json"
+            "ReactFeatureFlags.test-renderer.www.js",
+            "ReactFeatureFlags.www.js"
         ],
-        "commit_count": 140
+        "commit_count": 78
     },
     {
         "file_pair": [
-            "package.json",
-            "yarn.lock"
+            "ReactFeatureFlags.js",
+            "ReactFeatureFlags.test-renderer.js"
         ],
-        "commit_count": 123
+        "commit_count": 76
     },
     {
         "file_pair": [
-            "manifest.json",
-            "package.json"
+            "ReactFeatureFlags.js",
+            "ReactFeatureFlags.www.js"
         ],
-        "commit_count": 91
+        "commit_count": 76
     }
 ]

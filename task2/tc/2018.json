@@ -1,92 +1,92 @@
 [
     {
         "file_pair": [
-            "ReactFiberScheduler.js",
-            "package.json"
+            "ReactFiberHooks.js",
+            "ReactHooks-test.internal.js"
         ],
         "coupled_commits": {
             "time_window": 24,
-            "commit_count": 449
-        }
-    },
-    {
-        "file_pair": [
-            "index.js",
-            "package.json"
-        ],
-        "coupled_commits": {
-            "time_window": 24,
-            "commit_count": 433
-        }
-    },
-    {
-        "file_pair": [
-            "package.json",
-            "results.json"
-        ],
-        "coupled_commits": {
-            "time_window": 24,
-            "commit_count": 411
-        }
-    },
-    {
-        "file_pair": [
-            "index.js",
-            "package.json"
-        ],
-        "coupled_commits": {
-            "time_window": 48,
-            "commit_count": 912
-        }
-    },
-    {
-        "file_pair": [
-            "ReactFiberScheduler.js",
-            "package.json"
-        ],
-        "coupled_commits": {
-            "time_window": 48,
-            "commit_count": 805
+            "commit_count": 135
         }
     },
     {
         "file_pair": [
             "ReactFiberBeginWork.js",
-            "package.json"
+            "ReactFiberScheduler.js"
         ],
         "coupled_commits": {
-            "time_window": 48,
-            "commit_count": 592
-        }
-    },
-    {
-        "file_pair": [
-            "index.js",
-            "package.json"
-        ],
-        "coupled_commits": {
-            "time_window": 72,
-            "commit_count": 1170
+            "time_window": 24,
+            "commit_count": 122
         }
     },
     {
         "file_pair": [
             "ReactFiberScheduler.js",
-            "package.json"
+            "index.js"
         ],
         "coupled_commits": {
-            "time_window": 72,
-            "commit_count": 1016
+            "time_window": 24,
+            "commit_count": 98
         }
     },
     {
         "file_pair": [
             "ReactFiberBeginWork.js",
-            "package.json"
+            "ReactFiberScheduler.js"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 220
+        }
+    },
+    {
+        "file_pair": [
+            "ReactFiberScheduler.js",
+            "index.js"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 176
+        }
+    },
+    {
+        "file_pair": [
+            "ReactFiberHooks.js",
+            "ReactHooks-test.internal.js"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 163
+        }
+    },
+    {
+        "file_pair": [
+            "ReactFiberBeginWork.js",
+            "ReactFiberScheduler.js"
         ],
         "coupled_commits": {
             "time_window": 72,
-            "commit_count": 704
+            "commit_count": 278
+        }
+    },
+    {
+        "file_pair": [
+            "ReactFiberScheduler.js",
+            "index.js"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 274
+        }
+    },
+    {
+        "file_pair": [
+            "ReactFiberCommitWork.js",
+            "ReactFiberScheduler.js"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 210
         }
     }
 ]
