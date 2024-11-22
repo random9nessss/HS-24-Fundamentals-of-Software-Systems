@@ -1,92 +1,92 @@
 [
     {
         "file_pair": [
-            "ReactCompositeComponent-test.js",
-            "package.json"
+            "ReactDOMComponent.js",
+            "ReactMount.js"
         ],
         "coupled_commits": {
             "time_window": 24,
-            "commit_count": 139
+            "commit_count": 110
         }
     },
     {
         "file_pair": [
-            "index.html",
-            "package.json"
+            "ReactDOMComponent-test.js",
+            "ReactDOMComponent.js"
         ],
         "coupled_commits": {
             "time_window": 24,
-            "commit_count": 135
+            "commit_count": 86
         }
     },
     {
         "file_pair": [
             "ReactDOMComponent.js",
-            "package.json"
+            "ReactTestUtils.js"
         ],
         "coupled_commits": {
             "time_window": 24,
-            "commit_count": 134
+            "commit_count": 78
         }
     },
     {
         "file_pair": [
             "ReactDOMComponent.js",
-            "package.json"
+            "ReactMount.js"
         ],
         "coupled_commits": {
             "time_window": 48,
-            "commit_count": 227
+            "commit_count": 138
+        }
+    },
+    {
+        "file_pair": [
+            "ReactDOMComponent-test.js",
+            "ReactDOMComponent.js"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 118
         }
     },
     {
         "file_pair": [
             "ReactCompositeComponent-test.js",
-            "package.json"
+            "ReactDOMComponent.js"
         ],
         "coupled_commits": {
             "time_window": 48,
-            "commit_count": 189
+            "commit_count": 114
         }
     },
     {
         "file_pair": [
-            "index.html",
-            "package.json"
+            "ReactDOMComponent-test.js",
+            "ReactDOMComponent.js"
         ],
         "coupled_commits": {
-            "time_window": 48,
-            "commit_count": 189
+            "time_window": 72,
+            "commit_count": 168
         }
     },
     {
         "file_pair": [
             "ReactDOMComponent.js",
-            "package.json"
+            "ReactMount.js"
         ],
         "coupled_commits": {
             "time_window": 72,
-            "commit_count": 331
+            "commit_count": 166
         }
     },
     {
         "file_pair": [
             "ReactCompositeComponent-test.js",
-            "package.json"
+            "ReactDOMComponent.js"
         ],
         "coupled_commits": {
             "time_window": 72,
-            "commit_count": 252
-        }
-    },
-    {
-        "file_pair": [
-            "ReactCompositeComponent.js",
-            "package.json"
-        ],
-        "coupled_commits": {
-            "time_window": 72,
-            "commit_count": 242
+            "commit_count": 165
         }
     }
 ]

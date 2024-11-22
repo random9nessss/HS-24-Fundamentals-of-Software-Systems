@@ -2,91 +2,91 @@
     {
         "file_pair": [
             "index.js",
-            "package.json"
+            "react-loader.js"
         ],
         "coupled_commits": {
             "time_window": 24,
-            "commit_count": 1265
+            "commit_count": 307
         }
     },
     {
         "file_pair": [
-            "package.json",
-            "tests-passing.txt"
-        ],
-        "coupled_commits": {
-            "time_window": 24,
-            "commit_count": 590
-        }
-    },
-    {
-        "file_pair": [
-            "index.html",
+            "cli.js",
             "index.js"
         ],
         "coupled_commits": {
             "time_window": 24,
-            "commit_count": 546
+            "commit_count": 276
+        }
+    },
+    {
+        "file_pair": [
+            "ReactDOMFiberComponent.js",
+            "index.js"
+        ],
+        "coupled_commits": {
+            "time_window": 24,
+            "commit_count": 253
+        }
+    },
+    {
+        "file_pair": [
+            "build.js",
+            "index.js"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 460
+        }
+    },
+    {
+        "file_pair": [
+            "ReactFiberScheduler.js",
+            "index.js"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 414
+        }
+    },
+    {
+        "file_pair": [
+            "bundles.js",
+            "index.js"
+        ],
+        "coupled_commits": {
+            "time_window": 48,
+            "commit_count": 409
+        }
+    },
+    {
+        "file_pair": [
+            "ReactFiberScheduler.js",
+            "index.js"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 582
         }
     },
     {
         "file_pair": [
             "index.js",
-            "package.json"
-        ],
-        "coupled_commits": {
-            "time_window": 48,
-            "commit_count": 2172
-        }
-    },
-    {
-        "file_pair": [
-            "index.html",
-            "package.json"
-        ],
-        "coupled_commits": {
-            "time_window": 48,
-            "commit_count": 1255
-        }
-    },
-    {
-        "file_pair": [
-            "package.json",
-            "tests-passing.txt"
-        ],
-        "coupled_commits": {
-            "time_window": 48,
-            "commit_count": 922
-        }
-    },
-    {
-        "file_pair": [
-            "index.js",
-            "package.json"
+            "input.js"
         ],
         "coupled_commits": {
             "time_window": 72,
-            "commit_count": 3502
+            "commit_count": 564
         }
     },
     {
         "file_pair": [
-            "index.html",
-            "package.json"
+            "build.js",
+            "index.js"
         ],
         "coupled_commits": {
             "time_window": 72,
-            "commit_count": 1717
-        }
-    },
-    {
-        "file_pair": [
-            "package.json",
-            "tests-passing.txt"
-        ],
-        "coupled_commits": {
-            "time_window": 72,
-            "commit_count": 1221
+            "commit_count": 556
         }
     }
 ]

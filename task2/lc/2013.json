@@ -1,23 +1,23 @@
 [
     {
         "file_pair": [
-            "app.js",
-            "index.html"
+            "ReactCompositeComponent-test.js",
+            "ReactCompositeComponent.js"
         ],
-        "commit_count": 43
+        "commit_count": 23
     },
     {
         "file_pair": [
-            "index.html",
-            "phantom.js"
+            "bootstrap-alert.js",
+            "bootstrap-button.js"
         ],
-        "commit_count": 43
+        "commit_count": 18
     },
     {
         "file_pair": [
-            "base.css",
-            "index.html"
+            "bootstrap-alert.js",
+            "bootstrap-carousel.js"
         ],
-        "commit_count": 34
+        "commit_count": 18
     }
 ]

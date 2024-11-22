@@ -8,16 +8,16 @@
     },
     {
         "file_pair": [
-            "example.js",
-            "index.html"
+            "ReactCompositeComponent-test.js",
+            "ReactCompositeComponent.js"
         ],
-        "commit_count": 32
+        "commit_count": 26
     },
     {
         "file_pair": [
-            "React.js",
-            "package.json"
+            "ReactDOMComponent.js",
+            "ReactDOMTextComponent.js"
         ],
-        "commit_count": 31
+        "commit_count": 26
     }
 ]

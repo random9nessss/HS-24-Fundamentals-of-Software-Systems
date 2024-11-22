@@ -12,16 +12,6 @@
     {
         "file_pair": [
             "index.js",
-            "package.json"
-        ],
-        "coupled_commits": {
-            "time_window": 24,
-            "commit_count": 3053
-        }
-    },
-    {
-        "file_pair": [
-            "index.js",
             "types.js"
         ],
         "coupled_commits": {
@@ -32,11 +22,11 @@
     {
         "file_pair": [
             "index.js",
-            "package.json"
+            "webpack.config.js"
         ],
         "coupled_commits": {
-            "time_window": 48,
-            "commit_count": 5468
+            "time_window": 24,
+            "commit_count": 2305
         }
     },
     {
@@ -62,11 +52,11 @@
     {
         "file_pair": [
             "index.js",
-            "package.json"
+            "webpack.config.js"
         ],
         "coupled_commits": {
-            "time_window": 72,
-            "commit_count": 6710
+            "time_window": 48,
+            "commit_count": 2934
         }
     },
     {
@@ -81,12 +71,22 @@
     },
     {
         "file_pair": [
-            "package.json",
-            "utils.js"
+            "index.js",
+            "types.js"
         ],
         "coupled_commits": {
             "time_window": 72,
-            "commit_count": 3375
+            "commit_count": 3150
+        }
+    },
+    {
+        "file_pair": [
+            "index.js",
+            "webpack.config.js"
+        ],
+        "coupled_commits": {
+            "time_window": 72,
+            "commit_count": 2982
         }
     }
 ]

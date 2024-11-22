@@ -15,9 +15,9 @@
     },
     {
         "file_pair": [
-            "index.js",
-            "package.json"
+            "types.js",
+            "utils.js"
         ],
-        "commit_count": 490
+        "commit_count": 385
     }
 ]
