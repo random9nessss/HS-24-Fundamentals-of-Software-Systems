@@ -1,0 +1,23 @@
+[
+    {
+        "file_pair": [
+            "index.js",
+            "utils.js"
+        ],
+        "commit_count": 1709
+    },
+    {
+        "file_pair": [
+            "ComponentWithNestedHooks.js",
+            "index.js"
+        ],
+        "commit_count": 1256
+    },
+    {
+        "file_pair": [
+            "ComponentWithMultipleHooksPerLine.js",
+            "index.js"
+        ],
+        "commit_count": 1173
+    }
+]
